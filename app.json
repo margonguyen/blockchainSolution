@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "sdkVersion": "31.0.0",
+    "name":"AwesomeProject",
+    "slug":"AwesomeProject",
+    "version": "0.1.0",
+    "description": "An application for displaying random people",
+    "primaryColor": "#ff8179"
+  }
+}
