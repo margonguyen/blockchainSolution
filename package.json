@@ -14,7 +14,7 @@
     "@material-ui/icons": "^4.9.1",
     "create-react-app": "^3.4.0",
     "react": "16.9.0",
-    "react-native": "^0.61.5",
+    "react-native": "^0.62.3",
     "react-native-complete-flatlist": "^2.0.3",
     "react-native-elements": "^1.2.7",
     "react-native-progress-steps": "^1.2.8",
